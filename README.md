@@ -8,8 +8,6 @@ be used  for anything other than the purpose stated above.
 
 _Just trying to do my best to network. Wish you best of luck!_
 
-Did this repo help you? [Support me by becoming a Github sponsor](https://github.com/sponsors/shrutikapoor08/). Your support helps me help others.❤️
-
 
 ## Steps to add yourself to this repo
 
